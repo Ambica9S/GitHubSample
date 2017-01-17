@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"This is my first line");
+    NSLog(@"This is for sailu");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
