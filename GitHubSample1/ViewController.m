@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"This is my first line");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
