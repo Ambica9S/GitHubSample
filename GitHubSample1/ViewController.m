@@ -19,6 +19,7 @@
     
     NSLog(@"This is my first line");
     NSLog(@"This is for sailu");
+     NSLog(@"This is for rajini");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
